@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロキノンサンセット",
+  "base_artist": "Limre",
+  "createdAt": "2026-03-26T20:06:51.967653Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロキノンサンセット",
+      "artist": "Limre",
+      "has_synced": false,
+      "path": "select/pl_01_ロキノンサンセット_Limre.txt"
+    }
+  ]
+}
